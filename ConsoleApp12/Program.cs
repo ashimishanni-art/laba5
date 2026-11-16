@@ -1,2 +1,3 @@
-﻿Console.WriteLine("Hello world!");
-Console.ReadKey();
+﻿int x = 5;
+int y = 10;
+Console.WriteLine("5 + 10 = {0}", x + y);
